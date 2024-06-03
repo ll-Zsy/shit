@@ -5,7 +5,7 @@ if(empty($_POST["name"])){
 if(strlen($_POST["pass"])<10){
     die("密码不能小于10位！");
 }
-if($_POST["pass"]!=$_POST["qpass"]){
+if($_POST["pass"]!==$_POST["qpass"]){
     die("两次输入的密码不一致！");
 }
 

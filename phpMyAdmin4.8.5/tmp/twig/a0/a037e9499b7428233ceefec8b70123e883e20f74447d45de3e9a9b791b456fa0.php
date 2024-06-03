@@ -383,6 +383,6 @@ $context["id"]), "initial_sliders_state" => "closed", "message" => _gettext("cri
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "database/multi_table_query/form.twig", "D:\\phpstudy_pro\\WWW\\phpMyAdmin4.8.5\\templates\\database\\multi_table_query\\form.twig");
+        return new Twig_Source("", "database/multi_table_query/form.twig", "D:\\shit\\phpMyAdmin4.8.5\\templates\\database\\multi_table_query\\form.twig");
     }
 }

@@ -55,6 +55,6 @@ class __TwigTemplate_e8bbe37919a7e0aa88ea6cefcfa60f214f2556f6165dcef28c633cdf737
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "database/search/result_divs.twig", "D:\\phpstudy_pro\\WWW\\phpMyAdmin4.8.5\\templates\\database\\search\\result_divs.twig");
+        return new Twig_Source("", "database/search/result_divs.twig", "D:\\shit\\phpMyAdmin4.8.5\\templates\\database\\search\\result_divs.twig");
     }
 }
